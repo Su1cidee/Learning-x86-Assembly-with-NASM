@@ -1,3 +1,6 @@
+<img width="1284" height="396" alt="Banner" src="https://github.com/user-attachments/assets/b2e938b7-e925-4a17-a59d-998b98246459" />
+
+---
 # 🧩 Learning x86 Assembly with NASM
 ### A modern, organized archive of my low-level programming journey
 
